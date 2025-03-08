@@ -1,3 +1,8 @@
+# (此项目已废弃)
+
+此项目因代码老旧已废弃，请移步至新项目：
+[YuiGod/vue-doc-qa-chat](https://github.com/YuiGod/vue-doc-qa-chat)
+
 📃 **vue-langchain-chat**
 
 基于 langchain 与 Qwen 语言模型的本地知识库问答。
